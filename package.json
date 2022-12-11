@@ -12,7 +12,7 @@
   "author": "Deepika Shree K",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "proper-lockfile": "^4.1.1"
   }
 }
